@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\administracion contable\administracion contable\bin\Debug\administracion contable.exe.config
+C:\Users\usuario\source\repos\administracion contable\administracion contable\bin\Debug\administracion contable.exe
+C:\Users\usuario\source\repos\administracion contable\administracion contable\bin\Debug\administracion contable.pdb
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion contable.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion_contable.Properties.Resources.resources
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion contable.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion contable.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion contable.exe
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion contable.pdb
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion_contable.Inicio.resources
+C:\Users\usuario\source\repos\administracion contable\administracion contable\obj\Debug\administracion_contable.PlanContable.resources
